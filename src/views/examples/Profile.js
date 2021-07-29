@@ -108,16 +108,16 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">1+</span>
+                          <span className="description">Years of experience.</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">2</span>
+                          <span className="description">Projects</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">18+</span>
+                          <span className="description">Repos'</span>
                         </div>
                       </div>
                     </Col>
@@ -145,7 +145,7 @@ class Profile extends React.Component {
                       <Col lg="9">
                         <p>
                         Holding a bachelor’s degree in industrial engineering from Jordan university of science and technology. Currently following the passion of being a well-educated and skilled software developer by enrolling in an intensive course in software development presented
-                        by ASAC in collaboration with Code Fellows. Moreover experienced in the logistics with more than a year and a half of experience. Having a demonstrated history working and volunteering in the humanitarian sector locally and abroad.
+                        by ASAC in collaboration with Code Fellows. Moreover, experienced in the logistics field with more than a year and a half of experience. Having a demonstrated history working and volunteering in the humanitarian sector locally and abroad.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
