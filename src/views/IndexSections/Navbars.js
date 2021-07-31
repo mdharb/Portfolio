@@ -332,7 +332,7 @@ class Navbars extends React.Component {
                     >
                       <i className="fa fa-facebook-square" />
                       <span className="nav-link-inner--text d-lg-none">
-                        Facebook
+                        {/* Facebook */}
                       </span>
                     </NavLink>
                   </NavItem>

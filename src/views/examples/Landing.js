@@ -85,7 +85,7 @@ class Landing extends React.Component {
                         <span>The Future</span>
                       </h1>
                       <p className="lead text-white">
-                      Technology makes life merged and connected between the world's nations and their voices being heard. During Covid-19 pandemic technology played a vital role of keeping life moving. The existence of technological tools is achieving a life with less human errors and corruption.  
+                      Technology makes life merged and connected between the world nations and their voices being heard. During Covid-19 pandemic technology played a vital role of keeping life moving even though while lockdowns. The existence of technological tools is achieving a life with less human errors and corruption.  
 
                       </p>
                       {/* <div className="btn-wrapper">
@@ -166,7 +166,7 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="#pablo"
+                            href="https://powerfull-team.github.io/JOstainable/"
                             onClick={e => e.preventDefault()}
                           >
                             Learn more

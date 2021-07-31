@@ -202,7 +202,7 @@ class DemoNavbar extends React.Component {
                       id="tooltip333589074"
                       target="_blank"
                     >
-                      <i className="fa fa-facebook-square" />
+                      <i class="fa fa-linkedin"></i>
                       <span className="nav-link-inner--text d-lg-none ml-2">
                         LinkedIn
                       </span>
@@ -211,7 +211,7 @@ class DemoNavbar extends React.Component {
                       LinkedIn Profile
                     </UncontrolledTooltip>
                   </NavItem>
-                  <NavItem>
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href="https://www.instagram.com/creativetimofficial"
@@ -226,8 +226,8 @@ class DemoNavbar extends React.Component {
                     <UncontrolledTooltip delay={0} target="tooltip356693867">
                       Instagram Profile
                     </UncontrolledTooltip>
-                  </NavItem>
-                  <NavItem>
+                  </NavItem> */}
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href="https://twitter.com/creativetim"
@@ -242,7 +242,7 @@ class DemoNavbar extends React.Component {
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
                       Twitter Profile
                     </UncontrolledTooltip>
-                  </NavItem>
+                  </NavItem> */}
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"

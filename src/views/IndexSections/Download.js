@@ -25,14 +25,14 @@ class Download extends React.Component {
   render() {
     return (
       <>
-        <section className="section section-lg">
+        {/* <section className="section section-lg">
           <Container>
             <Row className="row-grid justify-content-center">
               <Col className="text-center" lg="8">
                 <h2 className="display-3">
-                  Do you love this awesome{" "}
+                  A small brief about myself in video{" "}
                   <span className="text-success">
-                    Design System for Bootstrap 4?
+                    Get to know me better.
                   </span>
                 </h2>
                 <p className="lead">
@@ -158,7 +158,7 @@ class Download extends React.Component {
               </Col>
             </Row>
           </Container>
-        </section>
+        </section> */}
       </>
     );
   }
